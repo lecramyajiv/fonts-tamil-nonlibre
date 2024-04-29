@@ -3,4 +3,32 @@
 These Tamil fonts are created by CDAC, for non commerical
 Free use.
 
+The fonts are affixed with GIST-TMOT prefix.
+Fonts available in this set are
+
+1. Heena
+2. Ilango
+3. Kalyani
+4. Komala
+5. Krishnan
+6. Lalitha
+7. Madhura
+8. Mina
+9. Nambi
+10. Padma
+11. Parvathi
+12. Pattinathar
+13. Suman
+14. Abhirami
+15. Amala
+16. Appar
+17. Chanakya
+18. Chandra
+19. Kannadasan
+20. Kannagi
+21. Kalki
+22. Kamal
+23. Kumudam
+
+
 Non Libre Tamil Fonts For Slackware Linux
