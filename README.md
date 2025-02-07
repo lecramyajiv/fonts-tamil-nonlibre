@@ -1,7 +1,7 @@
 # fonts-tamil-nonlibre
 
-These Tamil fonts are created by CDAC, for non commerical
-Free use.
+These Tamil fonts are created by CDAC,Pune,India
+The fonts are Free for non commercial personal use.
 
 The fonts are affixed with GIST-TMOT prefix.
 Fonts available in this set are
